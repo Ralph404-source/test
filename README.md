@@ -1,4 +1,4 @@
-# Calculadora de Combustivel
+# Calculadora de Combustivel :pile:
 - Bem-vindo ao meu primeiro projeto!
 Projeto em Python guiado pela plataforma DevMedia.
 
