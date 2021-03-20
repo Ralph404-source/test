@@ -9,4 +9,4 @@
 	| Em construção...
 </h4>
 
-<p>Implementações:</p>
+<br\><p>Implementações:</p>
