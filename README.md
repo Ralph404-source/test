@@ -4,7 +4,7 @@
 
 <p>O programa permite calcular a quantidade de combustivel gasto por um veiculo em um determinado percurso de acordo com dados fornecidos pelo usuario.</p><br/>
 
-<p>- Status: </p>
+## Status
 <h4 align="left"> 
 	| Em construção...
 </h4>
