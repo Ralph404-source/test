@@ -10,3 +10,8 @@
 </h4><br/>
 
 <p>Implementações:</p>
+- [x] Recebimento de dados do usuario
+- [x] Preços médios de combustíveis pré definidos 
+- [ ] Interface grafica
+- [ ] Adicionar modelo do veiculo
+- [ ] Adicionar informações de consumo do veiculo
