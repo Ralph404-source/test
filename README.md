@@ -9,14 +9,11 @@
 	| Em construção...
 </h4><br/>
 
-<p>Implementações:</p>
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
 
-### Features
+### Implementações
 
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [ ] Cadastro de produtos
-
+- [x] Recebimento dos dados de distância percorrida pelo usuario
+- [x] Preços médios dos combustíveis pré definidos
+- [ ] Interface gráfica
+- [ ] Adicionar modelo do veiculo
+- [ ] Adicionar informações de consumo do veiculo
