@@ -42,8 +42,8 @@ $ python main.py
 ### Autor
 ---
 
-<a href="https://media-exp1.licdn.com/dms/image/C4E03AQE8D2WdKnyGKg/profile-displayphoto-shrink_200_200/0/1611951438198?e=1622073600&v=beta&t=RHCfT6REz37rSTsFpr7e20N8aubeOveY2OZ3xcUFHpI">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
+<a href="">
+ <img style="border-radius: 50%;" src="https://lh3.googleusercontent.com/oKypPftMASBNNLUZQ_wT-bu_ypxRK_IbAMK5gp_-A0DggqvgdiJe87fKdHPl7NMFeL85dZ9-4xMMD1edKdORbaplQAcOM8gv1HrglbHokQoT74dFlj2U4vA2PkbAuTlHLioKMzxqZ8I9GZG9VXwtRZwpKXrRZqb4c9R9luhkEtxMXmu2_NfwP0qnDb4vZpDKeQXAed9N4IRrrihN0OjvBArAjhCsrB9ik8CzSUvefmK0WVzwjFj-AI2k_-yKU7U2iHcnrqAi26sJDhSnXtUOHKMvpmLNl3YrQ6b6juklbQ2_Rsz-F3D1kN5YXBA550v9p5Q34egZOuzmm1dJJav8wZoORIiI23pctHCNfL_tLXvce6nDRuBl3r8vWAPRxIulkc9oM0r67M4SfrUItR5Au7KgdH5vSH6sTZ25ImazFHkKqsy5XpFPrLv-HqnW_PQhjh0F1VBwMeU72jSBysaNA-GTxDxGWn5YBJYqn75BhzcZu-Zgc_ob-Jm7u5iUY0__QUWP25uzi5AAYMxnELQ6LqVoOtk7YHw8-Wx0-IAzM96mTgF_DjbG7YNLEy3IerA_sE-rso71F3igXgL2h4yeH1njzK1JHpV3Uxg6025Ows-dqNl-6CqHG_oilKFGsRmtf30a4q2M7ER4VXQsZjKluL_2JtLFqmCcG8dcD-R8HHnX8bS_DJLXkz0IA8Wv8Y6Cr-hZuOjrEhxInlLJQ_MoeqI=w490-h653-no?authuser=0" width="100px;" alt=""/>
  <br />
  <sub><b>Rafael Lopes</b></sub></a><br/>
 
@@ -52,3 +52,5 @@ $ python main.py
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-lopes-/)](https://www.linkedin.com/in/rafael-lopes-/)
 
 ## Licença
+
+MIT License
