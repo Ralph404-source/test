@@ -24,7 +24,20 @@
 Para executar o codigo será necessário a instalação do [Python 3](https://www.python.org/)
 
 ```
-git clone <https://github.com/>
+# Clone este repositório
+$ git clone <https://github.com/tgmarinho/nlw1>
+
+# Acesse a pasta do projeto no terminal/cmd
+$ cd nlw1
+
+# Vá para a pasta server
+$ cd server
+
+# Instale as dependências
+$ npm install
+
+# Execute a aplicação em modo de desenvolvimento
+$ npm run dev:server
 
 ```
 
