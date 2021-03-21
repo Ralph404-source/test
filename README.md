@@ -17,4 +17,12 @@
 - [ ] Interface gráfica
 - [ ] Adicionar modelo do veiculo
 - [ ] Adicionar informações de consumo do veiculo
+<br/>
 
+## Pré-requisitos<br/>
+
+Para executar o codigo será necessário a instalação do [Python 3](https://www.python.org/)
+
+## Autor
+
+## Liçensa
