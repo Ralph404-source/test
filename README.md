@@ -19,10 +19,17 @@
 - [ ] Adicionar informações de consumo do veiculo
 <br/>
 
-## Pré-requisitos<br/>
+## Pré-requisitos e execução<br/>
 
 Para executar o codigo será necessário a instalação do [Python 3](https://www.python.org/)
 
+```
+git clone <https://github.com/>
+
+```
+
+
+
 ## Autor
 
-## Liçensa
+## Licença
