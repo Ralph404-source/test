@@ -42,7 +42,7 @@ $ python main.py
 ### Autor
 ---
 
-<a href="https://blog.rocketseat.com.br/author/thiago/">
+<a href="https://media-exp1.licdn.com/dms/image/C4E03AQE8D2WdKnyGKg/profile-displayphoto-shrink_200_200/0/1611951438198?e=1622073600&v=beta&t=RHCfT6REz37rSTsFpr7e20N8aubeOveY2OZ3xcUFHpI">
  <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
  <br />
  <sub><b>Rafael Lopes</b></sub></a><br/>
