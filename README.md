@@ -35,7 +35,7 @@ $ cd calculo_combustivel
 $ python main.py
 
 ```
-
+<br/>
 
 
 ## Autor
