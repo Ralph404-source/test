@@ -25,19 +25,14 @@ Para executar o codigo será necessário a instalação do [Python 3](https://ww
 
 ```
 # Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+$ git clone <https://github.com/>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+$ cd /
+$ cd calculo_combustivel
 
-# Vá para a pasta server
-$ cd server
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+# Execute o arquivo principal
+$ python main.py
 
 ```
 
