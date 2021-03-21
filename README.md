@@ -39,7 +39,6 @@ $ python main.py
 
 
 ## Autor
-### Autor
 ---
 
 <a href="">
